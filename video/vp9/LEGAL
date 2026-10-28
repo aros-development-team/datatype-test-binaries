@@ -1,0 +1,12 @@
++ bbb-360p.webm
+Big Buck Bunny, 640x360, first 10 seconds
+(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org
+Creative Commons Attribution 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Origin: https://test-videos.co.uk/bigbuckbunny/ (VP9 encode of the Blender Foundation film)
+
++ vp90-2-08-tile-4x4.webm
++ vp92-2-20-10bit-yuv420.webm (profile 2, 10-bit)
+WebM project libvpx test vectors
+Copyright (c) 2010, The WebM Project authors. All rights reserved.
+BSD 3-clause License (the libvpx LICENSE, https://chromium.googlesource.com/webm/libvpx/+/refs/heads/main/LICENSE)
+Origin: https://storage.googleapis.com/downloads.webmproject.org/test_data/libvpx/
